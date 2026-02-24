@@ -1,0 +1,19 @@
+# Pliki konfiguracyjne użytkownika Visual Studio
+.vs/
+*.user
+*.aps
+*.suo
+
+# Foldery z wynikiem kompilacji
+x64/
+Debug/
+Release/
+
+# Archiwa
+*.zip
+*.rar
+*.7z
+
+# Wygenerowane pliki zapisu stanu gry (światy)
+save*
+saves/
